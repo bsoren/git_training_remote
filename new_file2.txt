@@ -1,0 +1,1 @@
+This is first line in a new_file2.
